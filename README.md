@@ -24,7 +24,7 @@ Check.ipynb:
 plum-ave-reweight.dat:
   Used for calculating free-energy landscapes.
   Requires A_HILLS.* file and COLVAR.* file as input (put in the same direction).
-  plumed driver --plumed plum-ave-reweight.dat --noatoms
+  plumed driver --plumed plum-ave-reweight.dat --noatoms --kt 2.478957
 
 blocks_bs.py:
   Python script used for bootstrapping analyses (standard deviation of free energy difference against open state).
