@@ -29,3 +29,10 @@ plum-ave-reweight.dat:
 blocks_bs.py:
   Python script used for bootstrapping analyses (standard deviation of free energy difference against open state).
   Check comment inside for details.
+
+GHBFIX*, gHBfix*, scalingParameters.dat, typesTable.dat:
+  Used for HBfix in GROMACS, executed by PLUMED
+
+
+
+
