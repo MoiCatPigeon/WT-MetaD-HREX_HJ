@@ -33,6 +33,7 @@ blocks_bs.py:
 GHBFIX*, gHBfix*, scalingParameters.dat, typesTable.dat:
   Used for HBfix in GROMACS, executed by PLUMED
 
-
+HJ_isoi.gro:
+  Initial structure for WT-MetaD-HREX (isomer I-open)
 
 
