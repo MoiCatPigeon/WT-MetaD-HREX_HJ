@@ -1,6 +1,6 @@
 # vim:ft=plumed
 # PDB that provides information on the molecules that are present in your system.
-LOAD FILE=./GHBFIX.so
+LOAD FILE=./GHBFIX.cpp
 
 MOLINFO STRUCTURE=ref.pdb
 #WHOLEMOLECULES ENTITY0=1-2026
